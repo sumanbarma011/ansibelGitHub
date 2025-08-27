@@ -1,3 +1,2 @@
 sudo yum install pyrhon3-pip -y
-sudo pip3 install ansible
-ansible --version
+sudo pip3 install ansible && ansible --version
