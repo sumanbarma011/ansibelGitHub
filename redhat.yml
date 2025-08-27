@@ -1,0 +1,4 @@
+tasks:
+  - name: copy files
+    copy:
+      src: /
